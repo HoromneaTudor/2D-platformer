@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <savedResolution>
+    <width>1152</width>
+    <height>864</height>
+    <refreshRate>144</refreshRate>
+  </savedResolution>
+  <isFullScreen>false</isFullScreen>
+  <RezolutionIndex>8</RezolutionIndex>
+</Settings>
